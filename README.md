@@ -30,8 +30,8 @@ def remove_stopwords(sentence):
 ```
 
 # Accuracy
-<img src="https://github.com/Barbarpotato/Evenity_ML/blob/main/images/accuracy.png"></img>
+<img width=400px height=400px src="https://github.com/Barbarpotato/Evenity_ML/blob/main/images/accuracy.png"></img>
 
 # Loss
-<img src="https://github.com/Barbarpotato/Evenity_ML/blob/main/images/loss.png"></img>
+<img width=400px height=400px src="https://github.com/Barbarpotato/Evenity_ML/blob/main/images/loss.png"></img>
 
